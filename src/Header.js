@@ -9,7 +9,7 @@ const Header = () => {
             <div className='row'>
                 
                    <ul className='link'>
-                 <li> <NavLink to='/login'   style={{ textDecoration: 'none', color:'white', fontSize:20 }}>login</NavLink></li>
+                 <li> <NavLink to='/login'   style={{ textDecoration: 'none', color:'white', fontSize:20, border:'none'}}>login</NavLink></li>
                  <li><NavLink to='/'   style={{ textDecoration: 'none', color:'white', fontSize:20 }}>register</NavLink></li>
                     </ul> 
 
