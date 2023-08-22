@@ -1,0 +1,45 @@
+{
+  "Register": [
+    {
+      "id": "1",
+      "name": "rajat",
+      "password": 1234,
+      "email": "rajat@gmail.com"
+    },
+    {
+      "name": "trdtrdtr",
+      "password": "redyrdr",
+      "email": "d@gma",
+      "id": "uvkrw9C"
+    },
+    {
+      "name": "Rajat kr jha",
+      "password": "1995",
+      "email": "d@gmail.com",
+      "id": "xt96sqE"
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": "PmlKKRr"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "mohan@gmail.com",
+      "password": 1234
+    },
+    {
+      "password": "1995",
+      "email": "d@gmail.com",
+      "id": "xp7Pw39"
+    },
+    {
+      "password": "1995",
+      "email": "d@gmail.com",
+      "id": "B10S5e5"
+    }
+  ]
+}
