@@ -7,10 +7,18 @@ import Login from './Login';
 import Header from './Header';
 import Register from './Register';
 import Sum from './Sum';
+import LocationDisplay from './Map';
 
 function App() {
   return (
     <div className="App">
+
+<header className="App-header">
+        <h1>Geolocation Example</h1>
+      </header>
+      <main>
+        <LocationDisplay />
+      </main>
 
       
 <Header />
@@ -20,6 +28,8 @@ function App() {
       <Routes>
         <Route path='/' element={<Register/>}></Route>
         <Route path='/login' element={<Login/>}></Route>
+        
+        
       </Routes>
     
      
